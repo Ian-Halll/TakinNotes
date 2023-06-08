@@ -17,8 +17,10 @@ The site is publicly hosted at (https://takinnotes.herokuapp.com/), simply acces
 The project is used to save notes in a convenient and simple web app, the notes page has very clear buttons for saving and deleting notes, and any saved note can be clicked to display its contents
       
 ## Credits
-Ian Hall
-      
+Ian Hall, Kayvon Kazemini
+
+Special Thanks to Kayvon Kazemini for tutoring and walkthrough support on the creation of this application.
+
 ## License
 This Project Is Licensed Under The MIT License.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
